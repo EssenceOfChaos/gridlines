@@ -5,6 +5,8 @@ Gridlines helps you design a responsive and modern site layout by drawing the co
 * **Zurb Foundation**
 * **Semantic UI**
 
+* View an example of gridlines in action [here](https://webteamuniversity.github.io/gridlines/.)
+
 ## Usage
 If you are developing with one of the listed frameworks, Bootstrap, Foundation, or Semantic UI, you are already completely set up. Gridlines will draw out your existing rows and columns as well as any newly created alignments.
 
